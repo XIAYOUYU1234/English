@@ -1,0 +1,98 @@
+accelerometer	/əkˌseləˈrɒmɪtə(r)/
+three-axis accelerometer
+
+mount
+surface-mount
+
+integrate
+acceleration
+transducer	/trænz'dusɚ/
+integrated acceleration transducer
+
+ASIC：Application Specific Integrated Circuit
+conditioning
+with signal conditioning ASIC
+
+sense	sensor	sensitivity
+tilt
+motion
+shock
+vibration
+sensing tilt, motion, shock and vibration,
+
+rotation
+screen rotation
+
+state 国家状态州陈述
+the state-of-the-art
+
+silicon
+single crystal silicon
+
+accuracy
+high accuracy
+
+offset trimming
+
+Grid
+Land 
+Grid Array Package (LGA)
+
+guarantee
+guaranteed to operate over a temperature range of -40 °C to +85 °C
+
+Built–in
+
+algorithm/ˈælɡərɪðəm/
+motion algorithm
+
+assembly
+after assembly in production
+
+Schematic
+Diagram
+Internal Schematic Diagram
+
+SPECIFICATIONS
+CHARACTERISTICS
+SPECIFICATIONS AND CHARACTERISTICS
+
+Absolute	Absolutely
+Absolute Maximum Ratings
+
+Outlines
+Package Outlines
+
+digitize
+charge
+In active mode, the ADC digitizes the charge signals from transducer
+
+PROTOCOL
+I2C COMMUNICATION PROTOCOL
+
+incident
+accelerating incident
+
+function
+for device to function properly
+
+constrain
+we should have such constrains on the timing of VDD
+
+herein
+The information contained herein is
+
+exclusive
+exclusive property
+
+as long as
+There is no limitation on the voltage levels of VDD , as long as it is within operating range. 
+
+compliant
+This device is compliant with I²C -Bus Specification
+
+respectively
+This device supports standard and fast speed modes, 100 kHz and 400 kHz, respectively
+
+distributed
+disclose
