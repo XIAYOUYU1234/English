@@ -1,0 +1,79 @@
+domain
+In active mode, the ADC digitizes the charge signals from transducer, and digital signal processor conditions these signals in digital domain, processes the interrupts, and send data to Data registers (0x01~0x06) and FIFO (accessible through register 0x3F). 
+
+while
+In standby mode, most of the blocks are off, while device is ready for access through I2C.
+
+vary	variation
+numbering 
+data will vary periodically
+numbering the variation periods
+
+intensity
+
+complement	implement
+representation
+two's complement representation
+
+split
+data is split into 2 parts
+
+corresponding
+
+integrity
+ensure the integrity of the data
+
+axis	axes
+guaranteed
+the data of 3 axes are not guaranteed
+
+effective
+the interrupt will be effective about 64*MCLK
+
+slope 
+successive
+slope between two successive data
+
+preset
+threshold
+exceeded
+It generates interrupt when a preset threshold ANY_MOT_TH (0x2E) is exceeded.
+
+criteria	/kraɪˈtɪriə/
+fulfilled
+The any motion detection criteria are fulfilled 
+
+latched
+the interrupt signal is latched.
+
+algorithm
+The algorithm is as following
+
+absolute
+difference
+absolute value of acceleration difference
+
+respectively
+
+equates
+The time difference between the successive acceleration equates to 1/ODR
+
+click	/klɪk/
+click a touch-pad
+
+tap
+visualized	/viʒuə,laizd/
+In figure the timing for tap is visualized
+
+raise hand or hand down
+
+almost done 
+
+comprise
+These data comprise one frame
+
+mentioned
+As mentioned above
+
+associated
+the associated interrupt condition
