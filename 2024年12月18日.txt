@@ -1,0 +1,4 @@
+attenuated	/əˈtenjueɪtɪd/
+ADC attenuation parameter. Different parameters determine the range of the ADC.
+
+SARADC: Successive Approximation Register Analog-to-Digital Converter
