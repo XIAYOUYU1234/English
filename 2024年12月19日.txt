@@ -1,0 +1,50 @@
+state machine
+
+apparently
+
+get stuck	/stʌk/
+Sometimes when the FSM get stuck
+
+mechanism
+
+lead
+lead free product
+
+
+advanced 
+trench 
+advanced trench technology
+
+probe
+Probing the I2C bus
+
+as though
+it seems as though the ESP32-S3 is simply choosing not to continue clocking the bus.
+
+attempted 
+at least we have attempted that
+
+Saleae
+trace
+entire
+suite 
+Here is a complete Saleae trace of the entire test suite that we run.
+
+blip	/blɪp/
+a blip on the green line indicates that
+
+zoom in/out
+
+Curiously
+
+get on with things
+
+symptom
+are consistent with
+the symptoms (clock stopping + timeout error) are consistent with a "stuck" FSM
+
+interpret		/ɪnˈtɜːrprət/
+
+
+fiddle 
+fiddle with them
