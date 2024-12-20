@@ -1,0 +1,7 @@
+roll
+pitch
+yaw
+angle
+
+amplitude		/ˈæmplɪtuːd/
+P2P is peak to peak amplitude calculated by chip internally.
