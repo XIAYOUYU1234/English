@@ -1,0 +1,30 @@
+allocator
+before heap allocator
+
+Hence
+variadic
+arguments
+Hence, we provide two versions of the following macros which are using variadic arguments
+
+verbose
+macro to output logs in startup code at ESP_LOG_VERBOSE level.
+
+runtime 
+runtime macro to output logs at a specified level.
+
+essential
+Placing log strings in DRAM reduces available DRAM, so only use when absolutely essential.
+
+overridden
+can be overridden for specific tags using esp_log_level_set("*", level)
+
+impose 
+performance 
+impose a performance hit
+
+trade
+The tradeoff is increased application size.
+
+query
+Tag of the log to query current level.
+
