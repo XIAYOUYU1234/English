@@ -1,0 +1,13 @@
+Regulator
+voltage regulator
+
+Wireless
+Wireless circuit
+
+finite
+finite state machine
+
+retention
+
+Modem
+Modem-sleep
