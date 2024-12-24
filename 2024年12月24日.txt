@@ -1,0 +1,28 @@
+domain
+power domain to configutrue
+
+duration
+
+append
+
+beacon
+
+retention
+
+algorithm
+
+thread-safe
+
+recursive		/rɪˈkɜːrsɪv/
+
+constraint		/kənˈstreɪnt/
+lowest power consumption mode which meets the constraints of the lock
+
+dispatcher		/dɪˈspætʃər/
+Hook function for the interrupt dispatcher
+
+Dump
+Dump the information about time spent in each of the pm modes
+
+invoke
+Hook function implementing `waiti` instruction, should be invoked from idle task context
